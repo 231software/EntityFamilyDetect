@@ -1,0 +1,192 @@
+{
+    "mob": [
+        "minecraft:drowned",
+        "minecraft:squid",
+        "minecraft:glow_squid",
+        "minecraft:zombie",
+        "minecraft:villager_v2",
+        "minecraft:zombie_villager_v2",
+        "minecraft:dolphin",
+        "minecraft:skeleton",
+        "minecraft:creeper",
+        "minecraft:donkey",
+        "minecraft:spider",
+        "minecraft:rabbit",
+        "minecraft:pig",
+        "minecraft:chicken",
+        "minecraft:snow_golem",
+        "minecraft:fox",
+        "minecraft:trader_llama",
+        "minecraft:sheep",
+        "minecraft:skeleton_horse",
+        "minecraft:wolf",
+        "minecraft:armor_stand"
+    ],
+    "adult_piglin": [],
+    "allay": [],
+    "animal": [],
+    "armor_stand": [
+        "minecraft:armor_stand"
+    ],
+    "arthropod": [
+        "minecraft:spider"
+    ],
+    "artisan": [],
+    "axolotl": [],
+    "baby_turtle": [],
+    "bat": [],
+    "bee": [],
+    "blacksmith": [
+        "minecraft:villager_v2"
+    ],
+    "blaze": [],
+    "boat": [
+        "minecraft:boat"
+    ],
+    "butcher": [],
+    "cartographer": [],
+    "cat": [],
+    "cavespider": [],
+    "chicken": [
+        "minecraft:chicken"
+    ],
+    "cleric": [
+        "minecraft:zombie_villager_v2"
+    ],
+    "cod": [
+        "minecraft:cod"
+    ],
+    "cow": [],
+    "creeper": [
+        "minecraft:creeper"
+    ],
+    "dolphin": [
+        "minecraft:dolphin"
+    ],
+    "donkey": [
+        "minecraft:donkey"
+    ],
+    "dragon": [],
+    "drowned": [
+        "minecraft:drowned"
+    ],
+    "endermite": [],
+    "evocation_illager": [],
+    "farmer": [
+        "minecraft:villager_v2",
+        "minecraft:zombie_villager_v2"
+    ],
+    "fish": [
+        "minecraft:salmon",
+        "minecraft:cod"
+    ],
+    "fisherman": [],
+    "fletcher": [
+        "minecraft:villager_v2"
+    ],
+    "fox": [
+        "minecraft:fox"
+    ],
+    "frog": [],
+    "ghast": [],
+    "goat": [],
+    "guardian": [],
+    "guardian_elder": [],
+    "hoglin": [],
+    "hoglin_adult": [],
+    "hoglin_baby": [],
+    "hoglin_huntable": [],
+    "horse": [],
+    "husk": [],
+    "illager": [],
+    "inanimate": [
+        "minecraft:boat",
+        "minecraft:chest_minecart",
+        "minecraft:armor_stand"
+    ],
+    "irongolem": [],
+    "leatherworker": [],
+    "librarian": [],
+    "lightweight": [
+        "minecraft:rabbit",
+        "minecraft:fox"
+    ],
+    "llama": [
+        "minecraft:trader_llama"
+    ],
+    "magmacube": [],
+    "minecart": [
+        "minecraft:chest_minecart"
+    ],
+    "monster": [
+        "minecraft:skeleton",
+        "minecraft:spider",
+        "minecraft:zombie_villager_v2",
+        "minecraft:zombie",
+        "minecraft:creeper",
+        "minecraft:drowned"
+    ],
+    "mule": [],
+    "mushroomcow": [],
+    "nitwit": [
+        "minecraft:villager_v2"
+    ],
+    "npc": [],
+    "ocelot": [],
+    "pacified": [],
+    "panda": [],
+    "panda_aggressive": [],
+    "parrot_tame": [],
+    "parrot_wile": [],
+    "peasant": [
+        "minecraft:villager_v2"
+    ],
+    "phantom": [],
+    "pig": [
+        "minecraft:pig"
+    ],
+    "piglin": [],
+    "piglin_brute": [],
+    "piglin_hunter": [],
+    "pillager": [],
+    "player": [
+        "minecraft:player"
+    ],
+    "polarbear": [],
+    "preist": [],
+    "pupperfish": [],
+    "rabbit": [
+        "minecraft:rabbit"
+    ],
+    "ravager": [],
+    "salmon": [
+        "minecraft:salmon"
+    ],
+    "sheep": [
+        "minecraft:sheep"
+    ],
+    "shepherd": [],
+    "shulker": [],
+    "silverfish": [],
+    "skeleton": [
+        "minecraft:skeleton"
+    ],
+    "skeletonhorse": [
+        "minecraft:skeleton_horse"
+    ],
+    "slime": [],
+    "snowgolem": [
+        "minecraft:snow_golem"
+    ],
+    "spider": [
+        "minecraft:spider"
+    ],
+    "undead": [
+        "minecraft:skeleton",
+        "minecraft:zombie_villager_v2",
+        "minecraft:zombie",
+        "minecraft:drowned",
+        "minecraft:skeleton_horse"
+    ],
+    "enderman": []
+}
